@@ -1,0 +1,19 @@
+import { {{capitalize componentName}} } from "@masaiui/{{componentName}}";
+
+
+export default {
+  title: "Components / Forms / {{capitalize componentName}}",
+  decorators: [
+    (Story: any) => (
+      <div>
+        <Story />
+      </div>
+    ),
+  ],
+};
+
+export const basic = () => (
+  <>
+  <{{capitalize componentName}}> </{{componentName}}>
+  </>
+);

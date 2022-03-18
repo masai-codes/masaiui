@@ -1,0 +1,31 @@
+{
+  "name": "@masaiui/input",
+  "version": "1.0.0",
+  "description": "Input Box",
+  "keywords": [
+    "input"
+  ],
+  "author": "Prabhanjan <prabhanjan@fosslife.com>",
+  "homepage": "FIXME:",
+  "license": "MIT",
+  "main": "dist/masaiui-input.cjs.js",
+  "module": "dist/masaiui-input.esm.js",
+  "types": "dist/masaiui-input.cjs.d.ts",
+  "sideEffects": false,
+  "files": [
+    "dist",
+    "src"
+  ],
+  "preconstruct": {},
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "FIXME:",
+    "directory": "packages/input"
+  },
+  "bugs": {
+    "url": "FIXME:"
+  }
+}

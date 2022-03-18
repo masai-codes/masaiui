@@ -1,5 +1,4 @@
 import { Button } from "@masaiui/button";
-import React from "react";
 
 export default {
   title: "Components / Forms / Button",
