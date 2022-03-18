@@ -1,0 +1,32 @@
+{
+  "name": "@masaiui/button",
+  "version": "1.0.0",
+  "description": "a button component to do something etc",
+  "keywords": [
+    "button"
+  ],
+  "author": "Prabhanjan <prabhanjan@fosslife.com>",
+  "homepage": "FIXME:",
+  "license": "MIT",
+  "main": "dist/masaiui-button.cjs.js",
+  "module": "dist/masaiui-button.esm.js",
+  "types": "dist/masaiui-button.cjs.d.ts",
+  "sideEffects": false,
+  "files": [
+    "dist",
+    "src"
+  ],
+  "preconstruct": {},
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "FIXME:",
+    "directory": "packages/button"
+  },
+  "bugs": {
+    "url": "FIXME:"
+  },
+  "dependencies": {}
+}
