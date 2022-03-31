@@ -7,9 +7,9 @@
  *
  * @see Testing-Guide https://FIXME:/guides/component-guide#4-build-and-test
  */
-
 describe("useInput", () => {
   test("it works", () => {
     expect(true).toBeTruthy();
   });
 });
+export {};
